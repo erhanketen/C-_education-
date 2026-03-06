@@ -1,6 +1,9 @@
 *.exe
-
+*.out
 *.o
-
+*.obj
+*.log
+*.class
 *.dev
-
+build/
+bin/
